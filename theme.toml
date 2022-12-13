@@ -1,15 +1,15 @@
-name = "mediumish"
+name = "seer"
 license = "MIT"
 licenselink = "https://github.com/lgaida/mediumish-theme-gohugo/blob/master/LICENSE"
 description = "An elegant, mediumish theme for gohugo"
-homepage = "http://lgaida.de"
+homepage = "https://jamify.io"
 tags = ["Blog", "Responsive", "Personal", "Minimal", "Clean", "Disqus", "Google Analytics"]
 features = []
 min_version = "0.41"
 
 [author]
-  name = "lgaida"
-  homepage = "http://lgaida.de"
+  name = "jamify.io"
+  homepage = "https://jamify.io"
 
 # If porting an existing theme
 [original]
